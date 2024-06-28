@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\trouble2\trouble2\bin\Debug\net8.0\trouble2.exe
+C:\Users\User\source\repos\trouble2\trouble2\bin\Debug\net8.0\trouble2.deps.json
+C:\Users\User\source\repos\trouble2\trouble2\bin\Debug\net8.0\trouble2.runtimeconfig.json
+C:\Users\User\source\repos\trouble2\trouble2\bin\Debug\net8.0\trouble2.dll
+C:\Users\User\source\repos\trouble2\trouble2\bin\Debug\net8.0\trouble2.pdb
+C:\Users\User\source\repos\trouble2\trouble2\obj\Debug\net8.0\trouble2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\trouble2\trouble2\obj\Debug\net8.0\trouble2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\trouble2\trouble2\obj\Debug\net8.0\trouble2.AssemblyInfo.cs
+C:\Users\User\source\repos\trouble2\trouble2\obj\Debug\net8.0\trouble2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\trouble2\trouble2\obj\Debug\net8.0\trouble2.dll
+C:\Users\User\source\repos\trouble2\trouble2\obj\Debug\net8.0\refint\trouble2.dll
+C:\Users\User\source\repos\trouble2\trouble2\obj\Debug\net8.0\trouble2.pdb
+C:\Users\User\source\repos\trouble2\trouble2\obj\Debug\net8.0\trouble2.genruntimeconfig.cache
+C:\Users\User\source\repos\trouble2\trouble2\obj\Debug\net8.0\ref\trouble2.dll
